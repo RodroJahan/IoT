@@ -1,0 +1,2 @@
+# IoT
+The following project has code and report which were completed as part of coursework of EE4IOT - Internet of Things course part of the Erasmus Mundus Joint Masters Degree Program, SmartNet at Aston University 2020-2021. In case of any error identifications, feedback, help or explanation please contact on rodro307.jahan@yahoo.com or https://www.linkedin.com/in/samaun-rodro The course was taught by Dr. Richard Nock, email: r.nock@aston.ac.uk
